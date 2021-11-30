@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/App stash/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.25277777777777777" />
+        <entry key="..\:/App stash/QuizApp/app/src/main/res/layout/create_test.xml" value="0.25277777777777777" />
+        <entry key="..\:/App stash/QuizApp/app/src/main/res/layout/gameover.xml" value="0.2462962962962963" />
+        <entry key="..\:/App stash/QuizApp/app/src/main/res/layout/menupage.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/activity_main.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/create_test.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/gameover.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/graph.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/linkedlist.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/menupage.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/queue.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/stack.xml" value="0.259375" />
+        <entry key="..\:/QuizApp/app/src/main/res/layout/tree.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
