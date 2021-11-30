@@ -1,6 +1,7 @@
 # QuizApp
 
-This is a Quiz App I have created using Android Studio with Java and XML along with Firebase as a Database System.
+This is a Quiz App I have created using Android Studio with Java and XML along with Firebase as a Database System.<Br />
+All the questions here are fetched from the firebase database.<br />
 
 >## Screenshots :-
 >
